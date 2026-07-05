@@ -1,0 +1,6 @@
+{
+  "name": "선행 (先行) - Who Moves First",
+  "description": "가장 먼저 움직이는 자들을 위한 브랜드, 선행(先行)의 스토리와 볼캡을 만나보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
